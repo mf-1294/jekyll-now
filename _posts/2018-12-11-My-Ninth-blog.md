@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>My Ninth Blog</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>05/12/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>To be a little familiar with python ready for the lesson ahead</td>
   </tr>
   <tr>
-    <td>Target for the lesson?</td>
+    <th>Target for the lesson?</th>
     <td>To understand more number theory than we previously did.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes and I know a lot more such as, converting to hexadecimal to binary and vice versa.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What was helpful to do?</td>
+    <th>How did I learn? What was helpful to do?</th>
   </tr>
   <tr>
     <td>I found it very useful to learn through listening and looking at the board to see what was happening and how it was happening. It ws also effective to try and answer every question asked to us as it helped me further understand the work.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work </td>
+    <th>What limited my learning? Which habits do I need to work </th>
   </tr>
   <tr>
     <td>I personally don't think my learning was limited that much in this lesson as I always tried my best to listen, learn and answer.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>For next time I will probably change my understanding of python and increase it so next lesson i am not too cluless about what is happening. I will do this by going onto codecademy and working through various exercises. </td>
