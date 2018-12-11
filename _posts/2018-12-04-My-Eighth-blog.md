@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>My Eighth Blog</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>28/11/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>There was no sarting point because we were starting a new topic with a new teacher, Mr Keen.</td>
   </tr>
   <tr>
-    <td>Target for the lesson?</td>
+    <th>Target for the lesson?</th>
     <td>To have opened a repl.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes and I am read to do some things with it and practice pythin in codeacademy.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What was helpful to do?</td>
+    <th>How did I learn? What was helpful to do?</th>
   </tr>
   <tr>
     <td>We didn't do much learning, we were just talking about computational thinking and theory about IT</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work </td>
+    <th>What limited my learning? Which habits do I need to work </th>
   </tr>
   <tr>
     <td>I dont think my learning was limited from this lesson because whatever we talked about, I listened and understood the best I could and I tried answering as many questions as I could.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I don’t think I need to change much except always listening, even if I am distracted. I should just say, 'Talk to me later’, and start either working or listening.</td>
