@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>My Fifth</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>17/10/18</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>to have the coding for a Caesar Cypher in our google sheets</td>
   </tr>
   <tr>
-    <td>Target for </td>
+    <th>Target for </th>
     <td>To have refined my google sheets ready for handing in at the end of the lesson.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>I finished this target and had no homework.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What </td>
+    <th>How did I learn? What </th>
   </tr>
   <tr>
     <td>There wasn't much to learn this lesson however I listened to the teacher about what I need to for the lesson and worked without having to ask him what I need to do constantly.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work </td>
+    <th>What limited my learning? Which habits do I need to work </th>
   </tr>
   <tr>
     <td>I always talk too much during these lessons about stuff I do not need and I definitely think I need to work on that in the future</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>For next time, I’ll focus more and not talk too much.</td>
